@@ -1,0 +1,4 @@
+city,item_name,category,quantity_needed,urgency_level
+Annaba,Underwear,Supplies,300,Critical
+Tizi Ouzou,Burn Ointments,Medical,150,Critical
+Bejaia,First Aid Kits,Medical,80,High
